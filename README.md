@@ -71,7 +71,7 @@ Logging
 
 Every user processed is recorded with a timestamp:
 
-YYYY-MM-DD HH:MM:SS - Simulated user 'alice' with groups: developers,designers
+YYYY-MM-DD HH:MM:SS - Simulated user 'light' with groups: developers,designers
 
 
 Completion
