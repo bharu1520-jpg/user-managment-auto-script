@@ -83,9 +83,9 @@ Simulation complete. Check logs in ./logs/user_management.log
  Example Input (users.txt)
  Format: username;group1,group2,group3
 
-alice;developers,designers
-bob;admins
-charlie;support,qa
+light;developers,designers
+siyoni;admins
+manoj;support,qa
 
  How to Run
  Make the script executable
